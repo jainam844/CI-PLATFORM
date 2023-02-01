@@ -1,0 +1,29 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.grey {
+    color: #ADADAD;
+    text-decoration: none;
+}
+
+#blue {
+    color: #2B64B1;
+    text-decoration: none;
+}
+
+/* #bottom {} */
+
+.form-control::placeholder {
+    color: #414141;
+    opacity: 1;
+}
+
+.form-control:-ms-input-placeholder {
+    color: #414141;
+}
+
+.form-control::-ms-input-placeholder {
+    color: #414141;
+}
